@@ -1,0 +1,26 @@
+body
+		{
+			background-color: violet;
+		}
+
+		input, button
+		{
+			width: 500px;
+			padding: 20px 10px;
+			border-radius: 1cap;
+			border: none;
+		}
+
+		.submit
+		{
+			background-color: black;
+			color: red;
+			width: 165px;
+		}
+
+		div{
+			width: 100px;
+			height: 50px;
+			font-size: 1.5rem;
+			display: inline-block;
+		}
